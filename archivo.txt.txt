@@ -2,3 +2,6 @@ Comienzo super
 Segunda linea
 Ter
 !!
+Se soluciona el problema
+Se corrije
+Se corrije2
